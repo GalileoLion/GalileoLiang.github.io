@@ -122,3 +122,7 @@ Hexo 博客搭建并部署到 GitHub Pages(2024最新详细版)：https://blog.c
 https://hexo.io/zh-cn/docs/
 
 https://hexo.geekswg.top/anzhiyu-docs/
+
+使用cloudflare免费加速github page：https://monkeywie.cn/2020/08/20/fast-github-page-with-cloudflare/
+
+域名 DNS 解析到自己的 Github Page 页面（github page 绑定自己的域名） ：https://www.cnblogs.com/xieqk/p/Github-Page-DNS.html

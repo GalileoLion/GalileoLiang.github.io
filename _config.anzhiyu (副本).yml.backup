@@ -505,22 +505,22 @@ footer:
       #       link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
       #     - title: 更新日志
       #       link: /update/
-      - title: 导航
-        links:
-          - title: 即刻短文
-            link: /essay/
-          - title: 友链文章
-            link: /fcircle/
-          - title: 留言板
-            link: /comments/
-      - title: 协议
-        links:
-          - title: 隐私协议
-            link: /privacy/
-          - title: Cookies
-            link: /cookies/
-          - title: 版权协议
-            link: /copyright/
+      # - title: 导航
+      #   links:
+      #     - title: 即刻短文
+      #       link: /essay/
+      #     - title: 友链文章
+      #       link: /fcircle/
+      #     - title: 留言板
+      #       link: /comments/
+      # - title: 协议
+      #   links:
+      #     - title: 隐私协议
+      #       link: /privacy/
+      #     - title: Cookies
+      #       link: /cookies/
+      #     - title: 版权协议
+      #       link: /copyright/
   footerBar:
     enable: true
     authorLink: /

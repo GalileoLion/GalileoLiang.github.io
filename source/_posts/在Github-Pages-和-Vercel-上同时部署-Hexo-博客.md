@@ -120,3 +120,5 @@ jobs:
 Hexo 博客搭建并部署到 GitHub Pages(2024最新详细版)：https://blog.csdn.net/clearloe/article/details/139879493
 
 https://hexo.io/zh-cn/docs/
+
+https://hexo.geekswg.top/anzhiyu-docs/

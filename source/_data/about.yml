@@ -31,11 +31,9 @@
     tips: 生涯
     title: 无限进步
     list:
-      - desc: EDU,软件工程专业
+      - desc: BFU,车辆工程
         color: "#357ef5"
-      - desc: EDU,软件工程专业
-        color: "#357ef5"
-      - desc: EDU,软件工程专业
+      - desc: BFU,计科辅修
         color: "#357ef5"
     img: https://bu.dusays.com/2023/04/21/644287166329b.png
   statistic:
@@ -58,7 +56,7 @@
     author_name: 执政官
     personality_type: ENFJ-A
     photo_url: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
-    personality_img: https://www.16personalities.com/static/images/personality-types/scenes/diplomats_Protagonist_ENFJ_introduction.svg
+    personality_img: /img/diplomats_Protagonist_ENFJ_introduction.svg
     name_url: https://www.16personalities.com/ch/enfj-%E4%BA%BA%E6%A0%BC
   maxim:
     maxim_tips: 座右铭

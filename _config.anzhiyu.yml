@@ -490,7 +490,7 @@ footer:
     randomFriends: 3
     project:
       - title: 服务
-      #   links:
+        links:
       #     - title: 51la统计
       #       link: https://v6.51.la/
           - title: 十年之约
